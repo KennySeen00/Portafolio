@@ -1,0 +1,42 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.imagen_fondo{
+    background-image: url(../img/imagen_fondo.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    height: 40em;
+}
+
+.contenedor{
+    text-align: center;
+    padding-top: 80px;
+    /*
+    padding-left: 260px;
+    padding-top: 150px;*/
+}
+
+.presentacion{
+    display: flex;
+    justify-content: center;
+    /*display: flex;
+    justify-content: space-between;
+    text-align: center;
+    padding-top: 20px;*/
+}
+
+.presentacion h2{
+    font-size: 2rem;
+}
+
+.presentacion img{
+    height: 250px;
+    width: 250px;
+    /*height: 250px;
+    width: 250px;
+    margin-right: 300px;
+    margin-top: 60px;*/
+}
