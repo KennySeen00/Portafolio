@@ -1,6 +1,3 @@
-/*FUENTES*/
-@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@500&display=swap');
-
 :root{
     --primario: #2D2A32;
     --secundario: #DDD92A;
@@ -9,11 +6,4 @@
     --quinario: #FAFDF6;
 
 }
-
-*{
-    box-sizing: border-box;
-    padding: 0;
-    margin: 0;
-    background-color: var(--primario);    
-}
-
+/*Fuentes*/
